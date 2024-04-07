@@ -6,7 +6,7 @@
 -   문제를 해결하기 위해 데이터를 사용해서 흐름 및 방향을 찾는 기술이다.
 -   데이터 분석을 통해 비즈니스 프로세스를 구성하고, 의사 결정을 개선하며, 비즈니스 성장을 증진할 수 있다.
 
-<img src="./images/architecture.png" width="900px" style="margin-left: 10px;">
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/933c2bbf-dfea-4ff2-929d-1d08d722e3f9" width="900px" style="margin-left: 10px;">
 ** <sub>ETL은 Extract(추출), Transform(변환), Load(적재)를 의미한다. 여기 저기 흩어진 데이터를 하나로 모으기 위한 결합 과정이다.</sub>
 
 ### 기초 통계 (Basic statistics)
@@ -17,7 +17,7 @@
     수량적인 비교를 기초로 많은 사실을 관찰하고 처리하는 방법을 연구하는 학문이다.
 -   불균형 데이터를 대상으로 규칙성과 불규칙성을 발견한 뒤 실생활에 적용할 수 있다.
 
-<img src="./images/statistics01.png" style="margin-top: 20px">
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/1bbe7c27-57ba-4704-a3da-b712a17e0574" style="margin-top: 20px">
 
 #### 변량 (Variable)
 
@@ -50,7 +50,7 @@
 
 -   변량의 합을 변량의 수로 나눈 값을 의미한다.
 
-<img src="./images/mean.png" style="margin-left: 20px">
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/c5adabf5-2dda-4b05-bb78-bde7a79a703e" style="margin-left: 20px">
 
 #### 편차 (Deviation)
 
@@ -62,14 +62,14 @@
 -   변량이 평균으로부터 떨어져 있는 정도를 보기 위한 통계량이다.
 -   편차를 각각 제곱하여 그 합을 구한 뒤 산술 평균을 낸다.
 
-<img src="./images/variance.png" style="margin-left: 10px">
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/8ae3cbae-e741-43ac-bdf5-b3a254336887" style="margin-left: 10px">
 
 #### 표준편차 (Standard deviation)
 
 -   분산의 제곱근이며, 관측된 변량이 흩어져 있는 정도를 하나의 수치로 나타내는 통계량이다.
 -   표준편차가 작을 수록 평균값에서 변량들의 거리가 가깝다고 판단한다.
 
-<img src="./images/standard_deviation.png" style="margin-left: 15px">
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/e8230f7e-5bd0-49a9-82ee-0561d9f2047a" style="margin-left: 15px">
 
 #### 확률변수 (Random variable)
 
@@ -82,7 +82,7 @@
     확률변수에서 사용한 알파벳의 소문자를 사용한다.
 -   Y = { y<sub>1</sub>, y<sub>2</sub>, y<sub>3</sub> }, 이 때 Y는 확률변수이고 원소인 y<sub>1</sub> ~ y<sub>3</sub>은 확률변수값이다.
 
-<img src="./images/random_variable.jpg" width="700px" style="margin-left: 15px">
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/2a9a1140-48b4-465e-abce-3a8f7c3bb95a" width="700px" style="margin-left: 15px">
 
 #### 범주형 확률변수 (Categorical random variable)
 
@@ -110,13 +110,13 @@
 > <strong>2) { 0, 1 } (확률변수와 확률변수값)</strong>  
 > <strong>3) 완벽한 형태의 동전일 경우 확률 분포</strong>
 >
-> <img src="./images/probability_distribution01.png">
+> <img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/832ad326-8d2e-451d-9dac-3b3880ff064f">
 
 > <strong>1) 1 ~ 12까지 새겨진 주사위 던지기 (시행)</strong>  
 > <strong>2) { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 } (확률변수와 확률변수값)</strong>  
 > <strong>3) 완벽한 형태의 주사위일 경우 확률 분포</strong>
 >
-> <img src="./images/probability_distribution02.png">
+> <img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/ad712383-0326-47d4-818e-edf689e22311">
 
 #### 확률분포표 (Probability distribution table)
 
@@ -136,9 +136,9 @@
 -   확률변수에서 각 값에 대한 확률을 나타내는 것이 마치 각 값이 "질량"을 가지고 있는 것처럼 보이기 때문에 확률질량 함수로 불린다.
 
 > 확률질량 함수 f는 확률변수 X가 x를 변수값으로 가질 때의 확률이다.  
-> <img src="./images/pmf01.png" style="margin-top: 10px">  
-> <img src="./images/pmf02.png">  
-> <img src="./images/pmf03.png">
+> <img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/576c284b-2d8a-4dba-8dad-cd804c3f9cda" style="margin-top: 10px">  
+> <img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/7732304d-918c-429b-8fc0-0e3291795db2">  
+> <img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/aaa6e0b4-4f49-41a8-b1c2-7976c66ce390">
 
 #### 무한대 (Infinity)
 
@@ -170,27 +170,27 @@
 -   전체에 대한 확률이 아닌 구간에 포함될 확률을 나타내기 때문에 구간에 따른 밀도를 구하는 것이고, 이를 통해 확률밀도 함수라 불린다.
 
 > 확률밀도 함수 f는 특정 구간에 포함될 확률을 나타낸다.  
-> <img src="./images/pdf01.png" style="margin-top: 10px">  
-> <img src="./images/pdf02.png">  
-> <img src="./images/pdf03.png">  
-> <img src="./images/pdf04.png">
+> <img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/0723a9d5-68e2-4e28-98a5-c04bdc5f271f" style="margin-top: 10px">  
+> <img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/02e90923-8a1a-4850-bf45-32d2d42d2b1a">  
+> <img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/7ab89d35-0c7c-4e1f-8b56-8fa3f949426b">  
+> <img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/facda68d-dd9c-4eca-b566-4a423b85731f">
 
 #### 정규분포 (Normal distribution)
 
 -   모든 독립적인 확률변수들의 평균은 어떠한 분포에 가까워지는데, 이 분포를 정규분포라고 한다.
 -   즉, 비정규분포의 대부분은 극한상태에 있어서 정규분포에 가까워진다.
 
-<img src="./images/normal_distribution01.png" width="500px"> <img 
-src="./images/normal_distribution02.png" width="500px">
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/7764d6d5-396a-4635-a60d-537ccc312dea" width="500px"> <img 
+src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/37f9f6b7-47e4-48c1-ae1b-a1ca81c4d721" width="500px">
 
 -   평균 μ(mu)와 표준편차 σ(sigma)에 대해 아래의 확률밀도함수를 가지는 분포를 의미한다.
 
 <div style="display: flex">
     <div>
-        <img src="./images/normal_distribution03.png" width="230px" style="margin-left: 20px">
+        <img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/01e6ffb1-550e-417e-acff-2a8ac2fb3928" width="230px" style="margin-left: 20px">
     </div>
     <div>
-        <img src="./images/normal_distribution04.png" width="700px" style="margin-left: 20px">
+        <img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/5b415082-2005-4e8d-87b4-4c7dd5474013" width="700px" style="margin-left: 20px">
     </div>
 </div>
 
@@ -198,22 +198,22 @@ src="./images/normal_distribution02.png" width="500px">
 
 -   정규분포는 평균과 표준편차에 따라서 모양이 달라진다.
 
-<img src="./images/standard_normal_distribution01.png" width="400px">
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/0c72516a-e6c3-4e6f-a2f8-af8f8347ac61" width="400px">
 
 -   정규분포를 따르는 분포는 많지만 각각의 평균과 표준편차가 달라서 일반화할 수 없다.
 -   N(μ, σ) = N(0, 1)로 만든다면 모두 같은 특성을 가지는 동일한 확률분포로 바꿔서 일반화할 수 있다.
 -   따라서 일반 정규분포를 표준 정규분포로 바꾼 뒤 표준 정규분포의 특정 구간의 넓이를 이용해서 원래 분포의 확률을 구할 수 있다.
 
-<img src="./images/standard_normal_distribution02.png" width="550px">
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/9ff83cbf-fdfa-4bcb-836b-035841223b3d" width="550px">
 
 #### 표준화 (Standardization)
 
 -   다양한 형태의 정규분포를 표준 정규분포로 변환하는 방법이다.
 -   표준 정규분포에 대한 값(넓이)를 이용해 원래 분포의 확률을 구할 수 있다.
 
-<img src="./images/standardization01.png" style="margin-left: 20px">  
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/d76e321d-a944-4e02-a1cb-ac0702ba2db3" style="margin-left: 20px">  
   
-<img src="./images/standardization02.png" style="margin-left: 20px">
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/f0da85b0-96ee-4c24-b4b4-a8a57416da50" style="margin-left: 20px">
 
 #### 모집단과 모수 (Population and population parameter)
 
@@ -228,7 +228,7 @@ src="./images/normal_distribution02.png" width="500px">
 
 ### 데이터 분석의 범위
 
-<img src="./images/statistics02.png" width="400px" style="margin-left: 10px;">  
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/218f1e50-0f5a-41bf-96a7-2b22a1a98e0e" width="400px" style="margin-left: 10px;">  
   
 #### 기술 통계 (Descriptive Statistics)
 - 수집한 데이터의 요약을 통해서 데이터를 설명(묘사)하는 기법이다.
@@ -256,7 +256,7 @@ src="./images/normal_distribution02.png" width="500px">
 -   파이썬 list를 array() 메소드에 전달하면 ndarray로 변환되고 넘파이의 다양하고 편리한 기능들을 사용할 수 있게 된다.
 -   반드시 같은 자료형의 데이터만 담아야 한다.
 
-<img src="./images/numpy1.png" width="400px" style="margin-left: 10px;">
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/170be1d7-1e53-465a-bbbc-7101f4e84f1f" width="400px" style="margin-left: 10px;">
 
 #### astype()
 
@@ -267,7 +267,7 @@ src="./images/normal_distribution02.png" width="500px">
 
 -   축의 방향성을 표현할 때, axis로 표현할 수 있다.
 
-<img src="./images/numpy2.png" width="500px" style="margin-left: 10px;">
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/d01adc30-533f-49d2-aea7-3ae6865337d7" width="500px" style="margin-left: 10px;">
 
 #### arange(), zeros(), ones()
 
@@ -300,7 +300,7 @@ src="./images/normal_distribution02.png" width="500px">
 
 -   두 벡터의 성분들의 곱의 합
 
-<img src="./images/dot_product.png" width="500px" style="margin-left: 0;">
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/e7182f96-4467-4ad1-b143-12bd2d625d3f" width="500px" style="margin-left: 0;">
 
 #### 선형대수 (Linear Algebra)
 
@@ -362,9 +362,9 @@ src="./images/normal_distribution02.png" width="500px">
 
 ### Visualization (시각화)
 
-<img src="./images/visual01.png" width="600" style="margin-left:0">
-<img src="./images/visual02.png" width="600" style="margin-left:0">
-<img src="./images/visual03.png" width="600" style="margin-left:0">
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/8924db0d-c592-4070-ba01-199f092da075" width="600" style="margin-left:0">
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/e19ae3b5-5954-48a2-a805-50c54025115f" width="600" style="margin-left:0">
+<img src="https://github.com/hyuncoding/study_data_analysis/assets/134760674/6c50232e-7db5-4df0-88fc-6030fa0ec714" width="600" style="margin-left:0">
 
 ##### 범주형(상품 카테고리: 생활용품, 전자제품, 의류, 학생 수준: High, Medium, Low, 측정년도: 2021, 2022, ...)
 
